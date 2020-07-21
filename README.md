@@ -1,0 +1,2 @@
+# House-Price-Prediction-using-deep-learning
+we will be exploring how to use a package called Keras to build our first neural network to predict if house prices are above or below median value. In particular, we will go through the full Deep Learning pipeline, from:  Exploring and Processing the Data Building and Training our Neural Network Visualizing Loss and Accuracy Adding Regularization to our Neural Network
